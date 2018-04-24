@@ -1,0 +1,6 @@
+a = input("a = ")
+b = input ("b = ")
+print '%d + %d = %d' % (a,b,a+b)
+print '%d - %d = %d' % (a,b,a-b)
+print '%d * %d = %d' % (a,b,a*b)
+print '%f / %d = %f' % (a,b,a/b)
